@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Adds_file.showInterStitialAd(MainActivity.this);
-
+//Hello
 
         mAdView = new AdView(MainActivity.this);
         mAdView.setAdUnitId("MY_AD_UNIT_ID");
