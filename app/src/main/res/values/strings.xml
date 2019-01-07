@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android Torch</string>
+
+    <string name="tv_text_title_ShakeThreshold">Shake Threshold</string>
+    <string name="button_text_Save">Save</string>
+    <string name="button_text_Settings">Settings</string>
+    <string name="tv_text_heading_Settings">Settings</string>
+    <string name="tv_text_explaination_st">How hard to shake to switch flashlight on?</string>
+    <string name="iv_contentDisc">Gif Image to show shake motion</string>
+    <string name="switch_on_text">Switch On</string>
+    <string name="switch_off_text">Switch Off</string>
+    <string name="add_id">ca-app-pub-6673302883382972/9373220153</string>
+    <string name="interstitial_ad_id">ca-app-pub-6673302883382972/8606933399</string>
+
+</resources>
